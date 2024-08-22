@@ -1,1 +1,1 @@
-CRM
+CRM (customer relationship management)
